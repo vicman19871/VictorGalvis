@@ -1,6 +1,7 @@
-## Hello
+# Hello
 
-My name is Victor Alexander Galvis Sanchez. 
+## My name is Victor Alexander Galvis Sanchez. 
+
 I am a Systems Engineer with training and experience in the development of web and desktop applications with Angulajs, ZKeditor, Javascript, Css3, Html, Nodejs, jquery, java, SpringBoot.
 I participate in all stages of the software life cycle (analysis, design, coding, testing, deployment and stabilization).
 
